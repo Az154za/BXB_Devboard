@@ -4,19 +4,24 @@ Well this is a custom devboard a guided project from hackclub
 
 # Schematic
 This is an overview of the schematic
-<img width="1089" height="607" alt="image" src="https://github.com/user-attachments/assets/28423190-05aa-4a55-9e66-675b623031e1" />
+
+
+<img width="1080" height="748" alt="image" src="https://github.com/user-attachments/assets/d438e0be-fb43-4cde-b6e1-b0d1d2f8b4d1" />
+
 
 
 # PCB
 
 
-<img width="286" height="623" alt="image" src="https://github.com/user-attachments/assets/8ab7e2f8-3946-4c7b-8a79-d85640ac15a4" />
+<img width="317" height="620" alt="image" src="https://github.com/user-attachments/assets/0b7f19b5-e517-4564-93cf-b38e6b834435" />
+
 
 
 # 3D overview
 
 
-<img width="606" height="587" alt="image" src="https://github.com/user-attachments/assets/62b04403-cf0d-40fd-b198-01bc4ffa7a52" />
+<img width="696" height="711" alt="image" src="https://github.com/user-attachments/assets/97a37805-d38a-403c-a659-29165f47194f" />
+
 
 
 I hope you like the project don't forget to comment on this project
