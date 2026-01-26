@@ -21,7 +21,8 @@ U2,,MCP1700x-330xxTT,SOT-23,,Select by Customer,MCP1700T-3302E/TT,Microchip Tech
 U4,,W25Q16JVUXIQTR,Winbond_USON-8-1EP_3x2mm_P0.5mm_EP0.2x1.6mm,,Select by Customer,W25Q16JVUXIQ,Winbond Elec,USON-8-EP(2x3),"100,000 Cycles 133MHz 16Mbit 2.7V~3.6V 20 Years 3ms SPI USON-8-EP(2x3) NOR FLASH ROHS",NOR FLASH,1.The comment (W25Q16JVUXIQ) of this part does not match the one (W25Q16JVUXIQTR) provided in your BOM. Please confirm;,C2843335,https://jlcpcb.com/partdetail/WinbondElec-W25Q16JVUXIQ/C2843335,Extended,5,5 JLCPCB,2.76
 
 Y1,,12MHz,Crystal_SMD_3225-4Pin_3.2x2.5mm,,Select by Customer,X322512MSB4SI,YXC Crystal Oscillators,SMD3225-4P,-40℃~+85℃ 12MHz 20pF Crystal Oscillator ±10ppm ±20ppm SMD3225-4P Crystals ROHS,Crystals,,C9002,https://jlcpcb.com/partdetail/YXC_CrystalOscillators-X322512MSB4SI/C9002,Basic,5,5 JLCPCB,0.3225
-U3,,DHT11,Sensor:Aosong_DHT11_5.5x12.0_P2.54mm,,Select by Customer,,,,,,,,,,5,aliexpress,4.85
+
+
 
 
 
