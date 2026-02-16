@@ -28,10 +28,12 @@ This is an overview of the schematic
 
 
 
-# BOM
-Component,Price,Link
-PCB,$78.60,JLCPCB
-DHT11,$1.12,https://fr.aliexpress.com/item/1005008953430940.html
-Total = 80$
+## Bill of Materials (BOM)
+
+| Component | Price | Link |
+|-----------|-------|------|
+| PCB | $78.60 | [JLCPCB](https://jlcpcb.com) |
+| DHT11 | $1.12 | [AliExpress](https://fr.aliexpress.com/item/1005008953430940.html) |
+| **Total** | **$79.72** | |
 
 I hope you like the project don't forget to comment on this project
